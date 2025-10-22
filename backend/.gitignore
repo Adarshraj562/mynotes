@@ -1,0 +1,27 @@
+# Node backend
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+
+# Build / runtime
+dist/
+build/
+
+# PM2
+pids
+*.pid
+*.seed
+
+# DB
+*.sqlite
+
+# OS & editors
+.DS_Store
+.vscode/
+.idea/
